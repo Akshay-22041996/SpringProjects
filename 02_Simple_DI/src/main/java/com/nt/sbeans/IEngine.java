@@ -2,6 +2,6 @@ package com.nt.sbeans;
 
 public interface IEngine {
 
-	public void start();
+	public void starsst();
 	public void end();
 }
